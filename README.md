@@ -46,8 +46,6 @@ Open NNFLPROJECT.ipynb in Google Colab or Jupyter Notebook.
 
 Run all cells to reproduce the model results.
 
-📜 License
-This project is for educational purposes only. See LICENSE if you want to add one.
 
 📧 Contact
 GitHub: @Sakethkumar100
